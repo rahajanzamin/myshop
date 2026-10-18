@@ -1,0 +1,439 @@
+# Translation of Themes - Hello Biz in Persian
+# This file is distributed under the same license as the Themes - Hello Biz package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-07-15 16:53:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: fa\n"
+"Project-Id-Version: Themes - Hello Biz\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Hello Biz is a free, user-friendly Hybrid WordPress Theme that was crafted for seamless integration with the Elementor site builder and tailored specifically for business websites. Perfect for beginners, but far from limited to just them, it features a dedicated beginner-oriented “Home” screen to simplify and streamline the web-building process. Hello Biz also integrates with Elementor’s premium features, giving you access to tools like AI, and accessibility enhancements in one place. Whether launching a startup site or refining a company portfolio, Hello Biz offers a solid, responsive foundation for all web creators. Report security bugs through the Patchstack Vulnerability Disclosure Program. The Patchstack team validates, triages, and handles vulnerabilities. Report here: https://patchstack.com/database/wordpress/theme/hello-biz/vdp."
+msgstr "قالب وردپرس ترکیبی Hello Biz رایگان و کاربرپسند است که برای ادغام یکپارچه با سایت‌ساز Elementor ساخته شده و به‌طور خاص برای وب‌سایت‌های تجاری طراحی شده است. این قالب برای مبتدیان ایده‌آل است، اما نه تنها به آنها محدود نمی‌شود، بلکه دارای یک صفحه اصلی اختصاصی برای مبتدیان است تا فرآیند ساخت وب را ساده و روان کند. قالب Hello Biz همچنین با ویژگی‌های پریمیوم Elementor ادغام می‌شود و به شما امکان دسترسی به ابزارهایی مانند هوش مصنوعی و بهبود دسترسی را در یک مکان می‌دهد. چه در حال راه‌اندازی یک سایت استارتاپی باشید و چه در حال اصلاح نمونه کارهای یک شرکت، قالب Hello Biz یک پایه محکم و پاسخگو برای همه سازندگان وب ارائه می‌دهد. اشکالات امنیتی را از طریق برنامه افشای آسیب‌پذیری Patchstack گزارش دهید. تیم Patchstack آسیب‌پذیری‌ها را تأیید، ارزیابی و مدیریت می‌کند. گزارش را اینجا ببینید: https://patchstack.com/database/wordpress/theme/hello-biz/vdp"
+
+#. Theme Name of the theme
+#: style.css modules/admin-home/components/admin-menu-controller.php:28
+#: modules/admin-home/components/admin-menu-controller.php:29
+#: assets/js/hello-biz-admin-top-bar.js:1
+#, gp-priority: high
+msgid "Hello Biz"
+msgstr "سلام کسب‌وکار"
+
+#: modules/admin-home/rest/admin-config.php:356
+msgid "Export"
+msgstr "برون‌بری"
+
+#: modules/admin-home/rest/admin-config.php:342
+msgid "Remove"
+msgstr "حذف"
+
+#: modules/admin-home/rest/admin-config.php:349
+msgid "Import"
+msgstr "درون‌ریزی"
+
+#: includes/welcome-banner-config.php:61
+msgid "Create home page"
+msgstr "ایجاد برگه نخست"
+
+#: modules/admin-home/rest/install-confirmation.php:43
+msgid "User not found."
+msgstr "کاربر یافت نشد."
+
+#: includes/welcome-banner-config.php:68
+#: modules/admin-home/components/admin-menu-controller.php:92
+msgid "Begin setup"
+msgstr "شروع راه‌اندازی"
+
+#: includes/welcome-banner-config.php:64
+#: modules/admin-home/components/admin-menu-controller.php:89
+msgid "Finish setup"
+msgstr "پایان راه‌اندازی"
+
+#: includes/welcome-banner-config.php:26
+msgid "Almost there"
+msgstr "تقریبا تمومه"
+
+#: modules/admin-home/components/admin-bar-controller.php:37
+msgid "Manage Hello Biz theme"
+msgstr "مدیریت پوسته Hello Biz"
+
+#: modules/admin-home/rest/install-confirmation.php:53
+msgid "Failed to update user meta."
+msgstr "به‌روزرسانی متای کاربر ناموفق بود."
+
+#: modules/theme/classes/customizer-action-links.php:63
+msgid "Customize your header and footer across your website."
+msgstr "سربرگ و پابرگ خود را در سراسر وب‌سایت خود سفارشی کنید."
+
+#: modules/admin-home/rest/install-confirmation.php:62
+msgid "Install confirmation dialog dismissed."
+msgstr "کادر تایید نصب، رد شد."
+
+#: modules/conversion-banner/components/ajax-handler.php:26
+msgid "Click the link to activate Hello Plus."
+msgstr "برای فعال‌سازی Hello Plus روی پیوند کلیک کنید."
+
+#: includes/welcome-banner-config.php:29 modules/theme/module.php:91
+msgid "Hello Biz Home"
+msgstr "خانه Hello Biz"
+
+#: includes/welcome-banner-config.php:24
+msgid "Complete your website faster with Hello+"
+msgstr "با Hello+ وب‌سایت خود را سریع‌تر تکمیل کنید"
+
+#: includes/welcome-banner-config.php:45
+msgid "Access everything you need to set up and manage your website."
+msgstr "به هر آنچه برای راه‌اندازی و مدیریت وب‌سایت خود نیاز دارید، دسترسی داشته باشید"
+
+#: modules/theme/classes/customizer-action-links.php:62
+msgid "Style your header and footer"
+msgstr "استایل‌دهی به سربرگ و پابرگ"
+
+#: includes/welcome-banner-config.php:40
+msgid "Hello+ is a free plugin that gives your website a header, footer, and extra widgets designed to help you build a business-ready site."
+msgstr "Hello+ یک افزونه رایگان است که سربرگ، پابرگ و ابزارک‌های اضافی را برای ساخت یک وب‌سایت تجاری آماده، به سایت شما می‌افزاید."
+
+#: includes/welcome-banner-config.php:47
+msgid "Access the full suite of features, including website templates, header and footer templates, and extra widgets."
+msgstr "دسترسی به مجموعه کامل ویژگی‌ها، از جمله قالب‌های وب‌سایت، قالب‌های سربرگ و پابرگ و ابزارک‌های اضافی."
+
+#: includes/welcome-banner-config.php:42
+msgid "Choose a website template and start customizing your site."
+msgstr "یک قالب وب‌سایت انتخاب کنید و سفارشی‌سازی سایت خود را آغاز نمایید."
+
+#: modules/admin-home/rest/admin-config.php:305
+msgid "Site Favicon"
+msgstr "فاوآیکون سایت"
+
+#: modules/admin-home/rest/admin-config.php:266
+msgid "Add New"
+msgstr "افزودن تازه"
+
+#: modules/admin-home/rest/admin-config.php:262
+msgid "Edit"
+msgstr "ویرایش"
+
+#: modules/admin-home/components/admin-menu-controller.php:54
+#: modules/admin-home/components/admin-menu-controller.php:55
+#: modules/admin-home/rest/admin-config.php:221
+msgid "Theme Builder"
+msgstr "پوسته‌ساز"
+
+#: modules/admin-home/rest/admin-config.php:90
+msgid "Platinum Support"
+msgstr "پشتیبانی پلاتینیوم"
+
+#: modules/admin-home/rest/admin-config.php:84
+msgid "Blog"
+msgstr "بلاگ"
+
+#: modules/admin-home/rest/admin-config.php:65
+msgid "Discord"
+msgstr "دیسکورد"
+
+#: modules/admin-home/rest/admin-config.php:59
+msgid "YouTube"
+msgstr "یوتیوب"
+
+#: modules/admin-home/rest/admin-config.php:53
+msgid "Facebook"
+msgstr "فیس‌بوک"
+
+#: modules/admin-home/rest/admin-config.php:78
+msgid "Help Center"
+msgstr "مرکز راهنمایی"
+
+#: modules/admin-home/rest/admin-config.php:70
+msgid "Rate Us"
+msgstr "به ما امتیاز دهید"
+
+#: template-parts/search.php:102
+msgid "Next"
+msgstr "بعدی"
+
+#: template-parts/search.php:91
+msgid "Previous"
+msgstr "قبلی"
+
+#: template-parts/404.php:17
+msgid "404"
+msgstr "۴۰۴"
+
+#: searchform.php:18 searchform.php:23
+msgctxt "submit button"
+msgid "Search"
+msgstr "جستجو"
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search…"
+msgstr "جستجو…"
+
+#: searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr "جستجو برای:"
+
+#. translators: %d: Number of search results
+#: template-parts/search.php:27
+msgid "%d result"
+msgid_plural "%d results"
+msgstr[0] "%d نتیجه"
+
+#: template-parts/404.php:20
+msgid "We can't find that page"
+msgstr "ما نمی‌توانیم آن برگه را پیدا کنیم"
+
+#: template-parts/404.php:31
+msgid "Try searching or <a href=\"%s\">return to homepage</a>."
+msgstr "جستجو را امتحان کنید یا <a href=\"%s\">به صفحه اصلی برگردید</a>."
+
+#. translators: 1: Number of results, 2: Search term
+#: template-parts/search.php:33
+msgid "%1$s found for %2$s"
+msgstr "%1$s نتیجه برای %2$s پیدا شد"
+
+#: modules/admin-home/rest/promotions.php:29
+msgid "Improve Speed."
+msgstr "بهبود سرعت."
+
+#: modules/admin-home/rest/promotions.php:30
+msgid "Try Image Optimizer for free"
+msgstr "Image Optimizer را رایگان امتحان کنید"
+
+#: modules/admin-home/rest/promotions.php:28
+msgid "Reduce Size."
+msgstr "کاهش اندازه."
+
+#: modules/admin-home/rest/promotions.php:27
+msgid "Optimize Images."
+msgstr "بهینه سازی تصاویر."
+
+#: modules/theme/starter-content/home.php:400
+msgctxt "Theme starter content"
+msgid "Home"
+msgstr "خانه"
+
+#: template-parts/header.php:43
+msgid "Main menu"
+msgstr "فهرست اصلی"
+
+#. translators: %s: HTML entity for arrow character.
+#: template-parts/archive.php:54
+msgid "Next %s"
+msgstr "بعدی %s"
+
+#. translators: %s: HTML entity for arrow character.
+#: template-parts/archive.php:50
+msgid "%s Previous"
+msgstr "%s قبلی"
+
+#: includes/module-base.php:259 includes/module-base.php:270
+msgid "Something went wrong."
+msgstr "مشکلی پیش آمد."
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "رفتن به محتوا"
+
+#: modules/admin-home/rest/admin-config.php:190
+#: modules/settings/components/settings-menu.php:16
+#: modules/settings/components/settings-menu.php:17
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: modules/admin-home/rest/promotions.php:32
+msgid "Install"
+msgstr "نصب"
+
+#: modules/admin-home/rest/admin-config.php:201
+#: modules/theme/components/theme-support.php:22
+msgid "Header"
+msgstr "سربرگ"
+
+#: comments.php:32
+msgctxt "comments title"
+msgid "One Response"
+msgstr "یک پاسخ"
+
+#: modules/admin-home/rest/promotions.php:63
+msgid "Bring your vision to life"
+msgstr "چشم‌انداز خود را به واقعیت تبدیل کنید"
+
+#: modules/admin-home/rest/promotions.php:62
+msgid "Elementor Pro"
+msgstr "المنتور حرفه‌ای"
+
+#: modules/admin-home/rest/promotions.php:53
+msgid "Let's Go"
+msgstr "بیا برویم"
+
+#: modules/admin-home/rest/promotions.php:48
+#: modules/admin-home/rest/promotions.php:49
+msgid "Elementor AI"
+msgstr "هوش مصنوعی المنتور"
+
+#: modules/admin-home/rest/promotions.php:76
+msgid "Customs Attribute"
+msgstr "ویژگی سفارشی"
+
+#: modules/admin-home/rest/promotions.php:74
+msgid "Form Submission"
+msgstr "ارسال فرم"
+
+#: modules/admin-home/rest/promotions.php:71
+msgid "Custom Code & CSS"
+msgstr "کد سفارشی و CSS"
+
+#: modules/admin-home/rest/promotions.php:67
+msgid "Upgrade Now"
+msgstr "هم‌اکنون ارتقاء دهید"
+
+#: modules/theme/classes/customizer-action-links.php:61
+msgid "Elementor"
+msgstr "المنتور"
+
+#: modules/admin-home/rest/theme-settings.php:52
+msgid "Settings must be an array"
+msgstr "تنظیمات باید یک آرایه باشد"
+
+#: template-parts/single.php:31
+msgid "Tagged "
+msgstr "برچسب‌ها "
+
+#: modules/admin-home/rest/admin-config.php:319
+msgid "Site Fonts"
+msgstr "فونت‌های سایت"
+
+#: modules/admin-home/rest/admin-config.php:313
+msgid "Site Colors"
+msgstr "رنگ‌های سایت"
+
+#: modules/admin-home/rest/admin-config.php:210
+#: modules/theme/components/theme-support.php:23
+msgid "Footer"
+msgstr "پابرگ"
+
+#: modules/theme/components/customizer.php:22
+msgid "Header & Footer"
+msgstr "سربرگ و پابرگ"
+
+#: comments.php:37
+msgctxt "comments title"
+msgid "%s Response"
+msgid_plural "%s Responses"
+msgstr[0] "%s پاسخ"
+
+#: modules/admin-home/rest/admin-config.php:300
+msgid "Site Logo"
+msgstr "لوگوی سایت"
+
+#: modules/theme/classes/customizer-action-links.php:55
+msgid "Finish Setup"
+msgstr "پایان راه‌اندازی"
+
+#: modules/admin-home/rest/promotions.php:75
+msgid "Form Integrations"
+msgstr "ادغام‌های فرم"
+
+#: modules/admin-home/rest/promotions.php:24
+msgid "Elementor Image Optimizer"
+msgstr "بهینه‌ساز تصویر المنتور"
+
+#: template-parts/search.php:73
+msgid "It seems we can't find what you're looking for."
+msgstr "به نظر می‌رسد ما نمی‌توانیم آنچه شما به دنبال آن هستید را پیدا کنیم."
+
+#: includes/welcome-banner-config.php:31
+msgid "Welcome to Hello Biz"
+msgstr "به Hello Biz خوش آمدید"
+
+#: modules/theme/classes/customizer-action-links.php:66
+msgid "By clicking “Begin setup” I agree to install and activate the Hello+ plugin."
+msgstr "با کلیک بر روی \"شروع راه‌اندازی\" با نصب و فعال‌سازی افزونه Hello+ موافقت می‌کنم."
+
+#: modules/conversion-banner/components/conversion-banner.php:110
+msgid "Notice dismissed."
+msgstr "اخطار رد شد."
+
+#: modules/admin-home/rest/promotions.php:77
+msgid "Role Manager"
+msgstr "مدیریت نقش"
+
+#: modules/admin-home/rest/promotions.php:73
+msgid "Collaborative Notes"
+msgstr "یادداشت‌های مشارکتی"
+
+#: modules/admin-home/rest/promotions.php:72
+msgid "E-commerce Features"
+msgstr "ویژگی‌های تجارت الکترونیک"
+
+#: template-parts/footer.php:21
+msgid "Footer menu"
+msgstr "فهرست پابرگ"
+
+#: modules/admin-home/rest/promotions.php:70
+msgid "Popup Builder"
+msgstr "سازندۀ پنجرۀ بازشو (پاپ‌آپ)"
+
+#: modules/theme/classes/customizer-action-links.php:46
+msgid "Begin Setup"
+msgstr "شروع راه‌اندازی"
+
+#: modules/admin-home/rest/promotions.php:65
+msgid "Get complete design flexibility for your website with Elementor Pro’s advanced tools and premium features."
+msgstr "با ابزارهای پیشرفته و ویژگی‌های برتر المنتور حرفه‌ای، طراحی کاملاً منعطفی را برای وب‌سایت خود دریافت کنید."
+
+#: includes/welcome-banner-config.php:152
+msgid "View site"
+msgstr "مشاهدۀ سایت"
+
+#: modules/admin-home/rest/admin-config.php:185
+msgid "Add New Page"
+msgstr "افزودن برگۀ تازه"
+
+#: modules/admin-home/components/admin-menu-controller.php:39
+#: modules/admin-home/components/admin-menu-controller.php:40
+#: template-parts/header.php:30
+msgid "Home"
+msgstr "صفحۀ اصلی"
+
+#: includes/welcome-banner-config.php:59 includes/welcome-banner-config.php:66
+msgid "Edit home page"
+msgstr "ویرایش صفحۀ اصلی"
+
+#: modules/admin-home/rest/promotions.php:51
+msgid "Boost creativity with Elementor AI. Craft & enhance copy, create custom CSS & Code, and generate images to elevate your website."
+msgstr "با هوش مصنوعی المنتور خلاقیت خود را بالا ببرید. متون را خلق و بهبود بخشید، کد و CSS سفارشی ایجاد کنید و تصاویر جذاب بسازید تا وب‌سایت خود را به سطح بالاتری برسانید."
+
+#: modules/admin-home/rest/admin-config.php:295
+msgid "Site Name"
+msgstr "نام سایت"
+
+#: includes/welcome-banner-config.php:105
+msgid "By clicking \"%s\" I agree to install and activate the Hello+ plugin."
+msgstr "با کلیک بر روی \"%s\" با نصب و فعال کردن افزونه Hello+ موافقت می‌کنم."
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/?utm_source=wp-themes&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Elementor Team"
+msgstr "تیم المنتور"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://elementor.com/products/hello-biz/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash"
+msgstr "https://elementor.com/products/hello-biz/?utm_source=wp-themes&utm_campaign=theme-uri&utm_medium=wp-dash"
